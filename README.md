@@ -1,3 +1,3 @@
--👋 Hi, I’m Yair Gabriel
--👀 I’m interested in Coding, Video Games and Movies!
--🌱 I’m currently learning a lot of stuff
+- 👋 Hi, I’m Yair Gabriel
+- 👀 I’m interested in Coding, Video Games and Movies!
+- 🌱 I’m currently learning a lot of stuff
